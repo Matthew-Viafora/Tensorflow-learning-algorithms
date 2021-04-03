@@ -1,4 +1,4 @@
-# Tensorflow-learning-algorithms
+# Tensorflow learning algorithms
 - Some examples of learning algorithms with tensorflow
 - Tensorflow 2.0 library along with all other packages (SciPy, Pandas, etc.) are distrubtuted with the Anaconda distribution: https://www.anaconda.com/
 
