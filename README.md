@@ -4,6 +4,7 @@
 
 
 Credit for some of the code goes to https://colab.research.google.com/drive/15Cyy2H7nT40sGR7TBN5wBvgTd57mVKay#forceEdit=true&sandboxMode=true&scrollTo=bQRLq4M1k1jm
+
 Note that these examples are for educational purposes only and I take no credit for the models in the "Learning_ Algorithm_Examples" folder.
 
 # Bitcoin Daily Price Predictor:
