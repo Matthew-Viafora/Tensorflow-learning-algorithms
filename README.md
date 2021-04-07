@@ -12,7 +12,7 @@ Based on the TensorFlow documentation:
 
 Note that these examples are for educational purposes only and models in the "Learning_ Algorithm_Examples" are based on TensorFlow documentation.
 
-# Bitcoin Daily Price Predictor:
+# Bitcoin Daily Price Predictor V 1.0:
 Author: Matthew Viafora
 
 - Takes open Bitcoin price from past 365 days
