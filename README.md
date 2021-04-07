@@ -3,9 +3,14 @@
 - Tensorflow 2.0 library along with all other packages (SciPy, Pandas, etc.) are distrubtuted with the Anaconda distribution: https://www.anaconda.com/
 
 
-Credit for some of the code goes to https://colab.research.google.com/drive/15Cyy2H7nT40sGR7TBN5wBvgTd57mVKay#forceEdit=true&sandboxMode=true&scrollTo=bQRLq4M1k1jm
+Based on the TensorFlow documentation: 
+- https://www.tensorflow.org/tutorials/estimator/linear
+-https://www.tensorflow.org/tutorials/estimator/premade
+- https://www.tensorflow.org/tutorials/keras/classification
 
-Note that these examples are for educational purposes only and I take no credit for the models in the "Learning_ Algorithm_Examples" folder.
+
+
+Note that these examples are for educational purposes only and models in the "Learning_ Algorithm_Examples" are based on TensorFlow documentation.
 
 # Bitcoin Daily Price Predictor:
 Author: Matthew Viafora
