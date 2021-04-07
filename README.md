@@ -5,7 +5,7 @@
 
 Based on the TensorFlow documentation: 
 - https://www.tensorflow.org/tutorials/estimator/linear
--https://www.tensorflow.org/tutorials/estimator/premade
+- https://www.tensorflow.org/tutorials/estimator/premade
 - https://www.tensorflow.org/tutorials/keras/classification
 
 
