@@ -7,6 +7,7 @@ Based on the TensorFlow documentation:
 - https://www.tensorflow.org/tutorials/estimator/linear
 - https://www.tensorflow.org/tutorials/estimator/premade
 - https://www.tensorflow.org/tutorials/keras/classification
+- https://github.com/tensorflow/models/tree/master/research/object_detection
 
 
 
